@@ -227,24 +227,6 @@ AWS Security Hub Dashboard
 
 ---
 
-🎯 Resume Impact
-
-This project demonstrates practical experience with:
-
-- Amazon EC2
-- IAM & MFA
-- Security Groups
-- Amazon EBS Encryption
-- AWS Systems Manager
-- Amazon Inspector
-- Amazon GuardDuty
-- AWS Config
-- Amazon S3
-- AWS Security Hub
-- Cloud Security Architecture
-- Security Operations and Monitoring
-
----
 
 🚀 Future Enhancements
 
