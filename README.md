@@ -20,7 +20,7 @@ A hands-on cloud security project demonstrating how to build, secure, monitor, a
 
 🏗️ Architecture Diagram
 
-![Architecture](AWS%20secure%20enterprise%20infrastructure.png)
+![Architecture](./aws-secure-enterprise-infrastructure-architecture.png)
 
 ---
 
