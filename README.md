@@ -1,10 +1,10 @@
-🔐 Secure AWS Enterprise Infrastructure
+# 🔐 Secure AWS Enterprise Infrastructure
 
 A hands-on cloud security project demonstrating how to build, secure, monitor, and manage an AWS environment using industry-standard AWS security services. This project focuses on implementing security best practices for identity management, encryption, vulnerability management, compliance monitoring, and centralized security visibility.
 
 ---
 
-📌 Project Objectives
+## 📌 Project Objectives
 
 - Deploy a secure EC2-based infrastructure in AWS.
 - Implement Identity and Access Management (IAM) security controls.
@@ -18,13 +18,13 @@ A hands-on cloud security project demonstrating how to build, secure, monitor, a
 
 ---
 
-🏗️ Architecture Diagram
+## 🏗️ Architecture Diagram
 
 ![Architecture](./aws-secure-enterprise-infrastructure-architecture.png)
 
 ---
 
-🛠️ AWS Services Used
+## 🛠️ AWS Services Used
 
 | Service | Purpose |
 |----------|----------|
@@ -42,7 +42,7 @@ A hands-on cloud security project demonstrating how to build, secure, monitor, a
 
 ---
 
-🏛️ Architecture Overview
+## 🏛️ Architecture Overview
 
 ```text
 IAM Users (MFA Enabled)
@@ -74,7 +74,7 @@ S3 Configuration Bucket
 
 ---
 
-🔒 Security Controls Implemented
+## 🔒 Security Controls Implemented
 
 1. Identity and Access Management (IAM)
 
@@ -150,7 +150,7 @@ S3 Configuration Bucket
 
 ---
 
-📸 Project Screenshots
+## 📸 Project Screenshots
 
 ### IAM Users List
 ![IAM Users](screenshots/iam-users-list.png)
@@ -190,7 +190,7 @@ S3 Configuration Bucket
 
 ---
 
-🚨 Findings and Remediation
+## 🚨 Findings and Remediation
 
 | Finding | Remediation |
 |----------|-------------|
@@ -202,7 +202,7 @@ S3 Configuration Bucket
 
 ---
 
-📈 Security Improvements Achieved
+## 📈 Security Improvements Achieved
 
 ✅ Multi-Factor Authentication Enabled
 
@@ -222,7 +222,7 @@ S3 Configuration Bucket
 
 ---
 
-💡 Skills Demonstrated
+## 💡 Skills Demonstrated
 
 - AWS Cloud Security
 - Identity and Access Management (IAM)
@@ -237,7 +237,7 @@ S3 Configuration Bucket
 ---
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Implement AWS Organizations and multi-account security.
 - Add CloudWatch alarms and EventBridge automation.
@@ -247,7 +247,7 @@ S3 Configuration Bucket
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 **Aayush Jalali**
 
@@ -256,4 +256,4 @@ S3 Configuration Bucket
 
 ---
 
-⭐ If you found this project useful, consider giving this repository a star.
+## ⭐ If you found this project useful, consider giving this repository a star.
