@@ -152,32 +152,41 @@ S3 Configuration Bucket
 
 📸 Project Screenshots
 
-IAM MFA Enabled
-![IAM MFA](screenshots/iam-mfa.png)
+### IAM Users List
+![IAM Users](screenshots/iam-users-list.png)
 
-EC2 Secure Instance
-![EC2 Instance](screenshots/ec2-instance.png)
+### CloudAdmin MFA
+![CloudAdmin MFA](screenshots/cloudadmin-mfa.png)
 
-Security Groups
+### ReadOnly User MFA
+![ReadOnly User MFA](screenshots/readonlyuser-mfa.png)
+
+### IAM Password Policy
+![IAM Password Policy](screenshots/iam-password-policy.png)
+
+### Security Groups
 ![Security Groups](screenshots/security-groups.png)
 
-Encrypted EBS
+### EBS Encryption
 ![EBS Encryption](screenshots/ebs-encryption.png)
 
-AWS Systems Manager
-![Systems Manager](screenshots/systems-manager.png)
+### Systems Manager Dashboard
+![Systems Manager](screenshots/systems-manager-dashboard.png)
 
-Amazon Inspector Dashboard
+### Inspector Dashboard
 ![Inspector](screenshots/inspector-dashboard.png)
 
-GuardDuty Dashboard
-![GuardDuty](screenshots/guardduty-dashboard.png)
+### AWS Config Dashboard
+![AWS Config Dashboard](screenshots/aws-config-dashboard.png)
 
-AWS Config Dashboard
-![AWS Config](screenshots/aws-config-dashboard.png)
+### AWS Config Resource Inventory
+![AWS Config Resource Inventory](screenshots/aws-config-resource-inventory.png)
 
-AWS Security Hub Dashboard
-![Security Hub](screenshots/security-hub-dashboard.png)
+### AWS Config Settings
+![AWS Config Settings](screenshots/aws-config-settings.png)
+
+### Security Hub Dashboard
+![Security Hub Dashboard](screenshots/security-hub-dashboard.png)
 
 ---
 
